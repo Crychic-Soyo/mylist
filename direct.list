@@ -12,5 +12,6 @@ IP-CIDR,173.82.192.0/24,DIRECT,no-resolve // RN
 DOMAIN-SUFFIX,cloudsilk.io,DIRECT // CloudSilk
 DOMAIN-KEYWORD,littlecreek,DIRECT // Little Creek
 DOMAIN-KEYWORD,racknerd,DIRECT // RN
+DOMAIN-KEYWORD,virmach,DIRECT // VIR
 DOMAIN-KEYWORD,imap,DIRECT // Mail
 DOMAIN-KEYWORD,smtp,DIRECT // Mail
