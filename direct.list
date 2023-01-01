@@ -5,7 +5,7 @@ DOMAIN-KEYWORD,capitalone,DIRECT // C1
 DOMAIN-KEYWORD,wise,DIRECT // Wise
 DOMAIN-KEYWORD,tapngo,DIRECT // Tap&Go
 DOMAIN-KEYWORD,cncbinternational,DIRECT // CITIC Intl
-IP-CIDR,104.208.66.0/24,DIRECT,no-resolve // Azure
+IP-CIDR,107.189.12.0/24,DIRECT,no-resolve // BuyVM
 IP-CIDR,37.123.192.0/24,DIRECT,no-resolve // CloudSilk
 IP-CIDR,38.45.65.0/24,DIRECT,no-resolve // Little Creek
 IP-CIDR,173.82.192.0/24,DIRECT,no-resolve // RN
@@ -14,5 +14,7 @@ DOMAIN-KEYWORD,littlecreek,DIRECT // Little Creek
 DOMAIN-KEYWORD,racknerd,DIRECT // RN
 DOMAIN-KEYWORD,virmach,DIRECT // VIR
 DOMAIN-KEYWORD,ovhcloud,DIRECT // OVH
+DOMAIN-KEYWORD,buyvm,DIRECT // BuyVM
+DOMAIN-KEYWORD,frantech,DIRECT // BuyVM
 DOMAIN-KEYWORD,imap,DIRECT // Mail
 DOMAIN-KEYWORD,smtp,DIRECT // Mail
