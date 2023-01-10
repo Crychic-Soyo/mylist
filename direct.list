@@ -8,7 +8,7 @@ DOMAIN-KEYWORD,cncbinternational,DIRECT // CITIC Intl
 IP-CIDR,15.204.57.0/24,DIRECT,no-resolve // OVH
 IP-CIDR,20.24.100.0/24,DIRECT,no-resolve // Azure
 IP-CIDR,38.45.65.0/24,DIRECT,no-resolve // Little Creek
-IP-CIDR,173.82.192.0/24,DIRECT,no-resolve // RN
+IP-CIDR,3.0.0.0/15,DIRECT,no-resolve // AWS
 DOMAIN-SUFFIX,cloudsilk.io,DIRECT // CloudSilk
 DOMAIN-KEYWORD,littlecreek,DIRECT // Little Creek
 DOMAIN-KEYWORD,racknerd,DIRECT // RN
