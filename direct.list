@@ -11,7 +11,7 @@ IP-CIDR,38.45.65.0/24,DIRECT,no-resolve // Little Creek
 IP-CIDR,3.0.0.0/15,DIRECT,no-resolve // AWS
 DOMAIN-SUFFIX,cloudsilk.io,DIRECT // CloudSilk
 DOMAIN-KEYWORD,littlecreek,DIRECT // Little Creek
-DOMAIN-KEYWORD,racknerd,DIRECT // RN
+DOMAIN-SUFFIX,aws.amazon.com,DIRECT // AWS
 DOMAIN-KEYWORD,azure,DIRECT // Azure
 DOMAIN-KEYWORD,imap,DIRECT // Mail
 DOMAIN-KEYWORD,smtp,DIRECT // Mail
