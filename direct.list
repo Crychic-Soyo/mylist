@@ -14,6 +14,9 @@ IP-CIDR,31.25.89.0/24,DIRECT,no-resolve // CloudSilk
 IP-CIDR,15.204.57.0/24,DIRECT,no-resolve // OVH
 IP-CIDR,20.24.100.0/24,DIRECT,no-resolve // Azure
 IP-CIDR,38.45.65.0/24,DIRECT,no-resolve // Little Creek
+IP-CIDR,8.8.8.0/24,no-resolve // dns.google
+IP-CIDR,8.8.4.0/24,no-resolve // dns.google
+IP-CIDR6,2001:4860::/32,no-resolve // dns.google
 DOMAIN-KEYWORD,littlecreek,DIRECT // Little Creek
 DOMAIN-SUFFIX,cloudsilk.io,DIRECT // CloudSilk
 DOMAIN-SUFFIX,idc.wiki,DIRECT // IDC WIKI
