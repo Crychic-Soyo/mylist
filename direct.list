@@ -5,13 +5,11 @@ DOMAIN-KEYWORD,capitalone,DIRECT // C1
 DOMAIN-KEYWORD,wise,DIRECT // Wise
 DOMAIN-KEYWORD,tapngo,DIRECT // Tap&Go
 DOMAIN-KEYWORD,cncbinternational,DIRECT // CITIC Intl
-DOMAIN-SUFFIX,office365.com // Exchange
 IP-CIDR,37.123.192.0/24,DIRECT,no-resolve // CloudSilk
 IP-CIDR,31.25.89.0/24,DIRECT,no-resolve // CloudSilk
 IP-CIDR,15.204.57.0/24,DIRECT,no-resolve // OVH
 IP-CIDR,20.24.100.0/24,DIRECT,no-resolve // Azure
 IP-CIDR,38.45.65.0/24,DIRECT,no-resolve // Little Creek
-IP-CIDR,3.112.0.0/14,DIRECT,no-resolve // AWS
 DOMAIN-KEYWORD,littlecreek,DIRECT // Little Creek
 DOMAIN-SUFFIX,cloudsilk.io,DIRECT // CloudSilk
 DOMAIN-SUFFIX,idc.wiki,DIRECT // IDC WIKI
