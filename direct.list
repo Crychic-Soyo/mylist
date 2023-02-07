@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,capitalone,DIRECT // C1
 DOMAIN-KEYWORD,wise,DIRECT // Wise
 DOMAIN-KEYWORD,tapngo,DIRECT // Tap&Go
 DOMAIN-KEYWORD,cncbinternational,DIRECT // CITIC Intl
+DOMAIN-SUFFIX,office365.com // Exchange
 IP-CIDR,37.123.192.0/24,DIRECT,no-resolve // CloudSilk
 IP-CIDR,31.25.89.0/24,DIRECT,no-resolve // CloudSilk
 IP-CIDR,15.204.57.0/24,DIRECT,no-resolve // OVH
