@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,wcl-law.com // Blog
 DOMAIN-SUFFIX,misakaf.org // EMBY
 DOMAIN-KEYWORD,ccemby // EMBY
 DOMAIN-KEYWORD,tex0n // DNS
-DOMAIN-SUFFIX,bilibili.com // BiliBili
 IP-CIDR,37.123.192.0/24,DIRECT,no-resolve // CloudSilk
 IP-CIDR,31.25.89.0/24,DIRECT,no-resolve // CloudSilk
 IP-CIDR,15.204.57.0/24,DIRECT,no-resolve // OVH
