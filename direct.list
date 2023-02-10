@@ -20,6 +20,7 @@ IP-CIDR6,2001:4860::/32,no-resolve // dns.google
 DOMAIN-KEYWORD,littlecreek,DIRECT // Little Creek
 DOMAIN-SUFFIX,cloudsilk.io,DIRECT // CloudSilk
 DOMAIN-SUFFIX,idc.wiki,DIRECT // IDC WIKI
+DOMAIN-SUFFIX,50network.com,DIRECT // IDC WIKI
 DOMAIN-SUFFIX,misaka.io,DIRECT // Misaka
 DOMAIN-SUFFIX,silicloud.com,DIRECT // Silicloud
 DOMAIN-KEYWORD,azure,DIRECT // Azure
