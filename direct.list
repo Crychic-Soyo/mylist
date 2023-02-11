@@ -24,6 +24,8 @@ DOMAIN-SUFFIX,50network.com,DIRECT // IDC WIKI
 DOMAIN-SUFFIX,misaka.io,DIRECT // Misaka
 DOMAIN-SUFFIX,silicloud.com,DIRECT // Silicloud
 DOMAIN-KEYWORD,azure,DIRECT // Azure
+DOMAIN,outlook.office365.com // Exchange
+DOMAIN,eas.outlook.com // Exchange
 DOMAIN-KEYWORD,imap,DIRECT // Mail
 DOMAIN-KEYWORD,smtp,DIRECT // Mail
 IP-CIDR,162.14.0.0/18,no-resolve // Tencent AIA
