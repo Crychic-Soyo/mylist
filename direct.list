@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,wcl-law.com // Blog
 DOMAIN-SUFFIX,misakaf.org // EMBY
 DOMAIN-KEYWORD,ccemby // EMBY
 DOMAIN-KEYWORD,tex0n // DNS
-DOMAIN-KEYWORD,adguard-dns // DNS
 IP-CIDR,15.204.57.0/24,DIRECT,no-resolve // OVH
 IP-CIDR,20.24.100.0/24,DIRECT,no-resolve // Azure
 IP-CIDR,38.45.65.0/24,DIRECT,no-resolve // Little Creek
