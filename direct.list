@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,wcl-law.com // Blog
 DOMAIN-SUFFIX,misakaf.org // EMBY
 DOMAIN-KEYWORD,ccemby // EMBY
 DOMAIN-KEYWORD,tex0n // DNS
-DOMAIN-SUFFIX,doh.pub // DNS
 IP-CIDR,15.204.57.0/24,DIRECT,no-resolve // OVH
 IP-CIDR,20.24.100.0/24,DIRECT,no-resolve // Azure
 IP-CIDR,38.45.65.0/24,DIRECT,no-resolve // Little Creek
@@ -17,11 +16,11 @@ IP-CIDR,3.112.0.0/14,DIRECT,no-resolve // OVH
 IP-CIDR,8.8.8.0/24,no-resolve // dns.google
 IP-CIDR,8.8.4.0/24,no-resolve // dns.google
 IP-CIDR6,2001:4860::/32,no-resolve // dns.google
+IP-CIDR,208.67.220.0/24 // Cisco DNS
 DOMAIN-KEYWORD,littlecreek,DIRECT // Little Creek
 DOMAIN-SUFFIX,idc.wiki,DIRECT // IDC WIKI
 DOMAIN-SUFFIX,50network.com,DIRECT // IDC WIKI
 DOMAIN-SUFFIX,misaka.io,DIRECT // Misaka
-DOMAIN-SUFFIX,silicloud.com,DIRECT // Silicloud
 DOMAIN-KEYWORD,azure,DIRECT // Azure
 DOMAIN,outlook.office365.com // Exchange
 DOMAIN,eas.outlook.com // Exchange
