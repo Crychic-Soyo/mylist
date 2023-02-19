@@ -21,7 +21,7 @@ DOMAIN-KEYWORD,littlecreek,DIRECT // Little Creek
 DOMAIN-SUFFIX,idc.wiki,DIRECT // IDC WIKI
 DOMAIN-SUFFIX,50network.com,DIRECT // IDC WIKI
 DOMAIN-SUFFIX,misaka.io,DIRECT // Misaka
-DOMAIN-SUFFIX,oracle // Oracle
+DOMAIN-KEYWORD,oracle // Oracle
 DOMAIN-KEYWORD,azure,DIRECT // Azure
 DOMAIN,outlook.office365.com // Exchange
 DOMAIN,eas.outlook.com // Exchange
