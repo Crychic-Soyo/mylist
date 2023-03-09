@@ -1,2 +1,37 @@
 payload:
-  - 
+  - DOMAIN-KEYWORD,dukascopy,DIRECT # Dukascopy
+  - DOMAIN-KEYWORD,stripe,DIRECT # Stripe
+  - DOMAIN-KEYWORD,americanexpress,DIRECT # AMEX
+  - DOMAIN-KEYWORD,capitalone,DIRECT # C1
+  - DOMAIN-KEYWORD,wise,DIRECT # Wise
+  - DOMAIN-KEYWORD,tapngo,DIRECT # Tap&Go
+  - DOMAIN-KEYWORD,cncbinternational,DIRECT # CITIC Intl
+  - DOMAIN-SUFFIX,wcl-law.com # Blog
+  - DOMAIN-SUFFIX,misakaf.org # EMBY
+  - DOMAIN-KEYWORD,ccemby # EMBY
+  - DOMAIN-KEYWORD,tex0n # DNS
+  - IP-CIDR,15.204.57.0/24,DIRECT,no-resolve # OVH
+  - IP-CIDR,20.24.100.0/24,DIRECT,no-resolve # Azure
+  - IP-CIDR,38.45.65.0/24,DIRECT,no-resolve # Little Creek
+  - IP-CIDR,3.112.0.0/14,DIRECT,no-resolve # OVH
+  - IP-CIDR6,2603:c022:8000::/35,no-resolve # Oracle
+  - IP-CIDR6,2001:550:5a00::/48,no-resolve # Little Creek
+  - IP-CIDR,193.122.112.0/21 # Oracle
+  - IP-CIDR,8.8.8.0/24,no-resolve # dns.google
+  - IP-CIDR,8.8.4.0/24,no-resolve # dns.google
+  - IP-CIDR6,2001:4860::/32,no-resolve # dns.google
+  - DOMAIN-KEYWORD,littlecreek,DIRECT # Little Creek
+  - DOMAIN-SUFFIX,idc.wiki,DIRECT # IDC WIKI
+  - DOMAIN-SUFFIX,50network.com,DIRECT # IDC WIKI
+  - DOMAIN-SUFFIX,misaka.io,DIRECT # Misaka
+  - DOMAIN-KEYWORD,oracle # Oracle
+  - DOMAIN-KEYWORD,oraclecloud # Oracle
+  - DOMAIN-KEYWORD,azure,DIRECT # Azure
+  - DOMAIN,outlook.office365.com # Exchange
+  - DOMAIN,eas.outlook.com # Exchange
+  - DOMAIN-KEYWORD,imap,DIRECT # Mail
+  - DOMAIN-KEYWORD,smtp,DIRECT # Mail
+  - IP-CIDR,162.14.0.0/18,no-resolve # Tencent AIA
+  - DOMAIN-KEYWORD,vultr # Vultr
+  - DOMAIN-KEYWORD,heinonline # HeinOnline
+  - DOMAIN-KEYWORD,westlaw # Westlaw
