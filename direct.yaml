@@ -1,11 +1,11 @@
 payload:
-  - DOMAIN-KEYWORD,dukascopy,DIRECT # Dukascopy
-  - DOMAIN-KEYWORD,stripe,DIRECT # Stripe
-  - DOMAIN-KEYWORD,americanexpress,DIRECT # AMEX
-  - DOMAIN-KEYWORD,capitalone,DIRECT # C1
-  - DOMAIN-KEYWORD,wise,DIRECT # Wise
-  - DOMAIN-KEYWORD,tapngo,DIRECT # Tap&Go
-  - DOMAIN-KEYWORD,cncbinternational,DIRECT # CITIC Intl
+  - DOMAIN-KEYWORD,dukascopy # Dukascopy
+  - DOMAIN-KEYWORD,stripe # Stripe
+  - DOMAIN-KEYWORD,americanexpress # AMEX
+  - DOMAIN-KEYWORD,capitalone # C1
+  - DOMAIN-KEYWORD,wise # Wise
+  - DOMAIN-KEYWORD,tapngo # Tap&Go
+  - DOMAIN-KEYWORD,cncbinternational # CITIC Intl
   - DOMAIN-SUFFIX,wcl-law.com # Blog
   - DOMAIN-SUFFIX,misakaf.org # EMBY
   - DOMAIN-KEYWORD,ccemby # EMBY
