@@ -34,3 +34,4 @@ IP-CIDR,162.14.0.0/18,no-resolve // Tencent AIA
 DOMAIN-KEYWORD,vultr // Vultr
 DOMAIN-KEYWORD,heinonline // HeinOnline
 DOMAIN-KEYWORD,westlaw // Westlaw
+DOMAIN-KEYWORD,maybank2u // MAE
