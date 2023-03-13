@@ -33,6 +33,7 @@ DOMAIN-KEYWORD,smtp,DIRECT // Mail
 IP-CIDR,162.14.0.0/18,no-resolve // Tencent AIA
 DOMAIN-KEYWORD,vultr // Vultr
 DOMAIN-KEYWORD,heinonline // HeinOnline
+DOMAIN-KEYWORD,pyypl // Pyypl
 DOMAIN-KEYWORD,westlaw // Westlaw
 DOMAIN-KEYWORD,maybank2u // MAE
 DOMAIN-KEYWORD,payoneer // Payoneer
