@@ -38,4 +38,4 @@ DOMAIN-KEYWORD,westlaw // Westlaw
 DOMAIN-KEYWORD,maybank2u // MAE
 DOMAIN-KEYWORD,payoneer // Payoneer
 DOMAIN-KEYWORD,cmbwinglungbank // 招商永隆
-IP-CIDR,141.11.138.0/24 // Nearoute
+IP-CIDR,141.11.138.0/24,no-resolve // Nearoute
