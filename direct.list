@@ -40,4 +40,4 @@ DOMAIN-KEYWORD,payoneer // Payoneer
 DOMAIN-KEYWORD,cmbwinglungbank // CMB Wing Lung
 IP-CIDR,141.11.138.0/24,no-resolve // Nearoute
 DOMAIN-KEYWORD,hsbc // HSBC
-DOMAIN-KEYWORD,kraken // Kraken
+
