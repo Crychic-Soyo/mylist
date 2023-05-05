@@ -6,8 +6,6 @@ DOMAIN-KEYWORD,wise,DIRECT // Wise
 DOMAIN-KEYWORD,tapngo,DIRECT // Tap&Go
 DOMAIN-KEYWORD,cncbinternational,DIRECT // CITIC Intl
 DOMAIN-SUFFIX,wcl-law.com // Blog
-DOMAIN-SUFFIX,misakaf.org // EMBY
-DOMAIN-KEYWORD,ccemby // EMBY
 DOMAIN-KEYWORD,tex0n // DNS
 IP-CIDR,15.204.57.0/24,DIRECT,no-resolve // OVH
 IP-CIDR,20.24.100.0/24,DIRECT,no-resolve // Azure
@@ -40,4 +38,5 @@ DOMAIN-KEYWORD,payoneer // Payoneer
 DOMAIN-KEYWORD,cmbwinglungbank // CMB Wing Lung
 IP-CIDR,141.11.138.0/24,no-resolve // Nearoute
 DOMAIN-KEYWORD,hsbc // HSBC
+DOMAIN-SUFFIX,ifastgb.com // iFast Global
 
