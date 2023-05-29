@@ -16,3 +16,5 @@ payload:
   - DOMAIN-KEYWORD,fidelitydebitcard # Fidelity
   - DOMAIN-KEYWORD,barclaysus # Barclays US
   - DOMAIN-KEYWORD,barclaycardus # Barclays US
+  - DOMAIN-KEYWORD,equifax // Equifax
+  - DOMAIN-KEYWORD,kraken  // Kraken
