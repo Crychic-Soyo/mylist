@@ -35,3 +35,10 @@ payload:
   - DOMAIN-KEYWORD,vultr # Vultr
   - DOMAIN-KEYWORD,heinonline # HeinOnline
   - DOMAIN-KEYWORD,westlaw # Westlaw
+  - DOMAIN-KEYWORD,maybank2u // MAE
+  - DOMAIN-KEYWORD,payoneer // Payoneer
+  - DOMAIN-KEYWORD,cmbwinglungbank // CMB Wing Lung
+  - IP-CIDR,103.232.214.0/24,no-resolve // Nearoute
+  - DOMAIN-KEYWORD,hsbc // HSBC
+  - DOMAIN-SUFFIX,ifastgb.com // iFast Global
+  - DOMAIN-KEYWORD,tdameritrade // TD Ameritrade
