@@ -14,9 +14,6 @@ IP-CIDR,3.112.0.0/14,DIRECT,no-resolve // OVH
 IP-CIDR6,2603:c022:8000::/35,no-resolve // Oracle
 IP-CIDR6,2001:550:5a00::/48,no-resolve // Little Creek
 IP-CIDR,193.122.112.0/21 // Oracle
-IP-CIDR,8.8.8.0/24,no-resolve // dns.google
-IP-CIDR,8.8.4.0/24,no-resolve // dns.google
-IP-CIDR6,2001:4860::/32,no-resolve // dns.google
 DOMAIN-KEYWORD,littlecreek,DIRECT // Little Creek
 DOMAIN-SUFFIX,idc.wiki,DIRECT // IDC WIKI
 DOMAIN-SUFFIX,50network.com,DIRECT // IDC WIKI
