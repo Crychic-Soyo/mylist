@@ -33,7 +33,7 @@ DOMAIN-KEYWORD,westlaw // Westlaw
 DOMAIN-KEYWORD,maybank2u // MAE
 DOMAIN-KEYWORD,payoneer // Payoneer
 DOMAIN-KEYWORD,cmbwinglungbank // CMB Wing Lung
-IP-CIDR,103.232.214.0/24,no-resolve // Nearoute
+IP-CIDR,103.151.40.0/24,no-resolve // IDC.WIKI
 DOMAIN-KEYWORD,hsbc // HSBC
 DOMAIN-SUFFIX,ifastgb.com // iFast Global
 DOMAIN-KEYWORD,tdameritrade // TD Ameritrade
