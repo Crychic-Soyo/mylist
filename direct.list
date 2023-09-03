@@ -15,9 +15,6 @@ IP-CIDR6,2603:c022:8000::/35,no-resolve // Oracle
 IP-CIDR6,2001:550:5a00::/48,no-resolve // Little Creek
 IP-CIDR,193.122.112.0/21 // Oracle
 DOMAIN-KEYWORD,littlecreek,DIRECT // Little Creek
-DOMAIN-SUFFIX,idc.wiki,DIRECT // IDC WIKI
-DOMAIN-SUFFIX,50network.com,DIRECT // IDC WIKI
-DOMAIN-SUFFIX,misaka.io,DIRECT // Misaka
 DOMAIN-KEYWORD,oracle // Oracle
 DOMAIN-KEYWORD,oraclecloud // Oracle
 DOMAIN-KEYWORD,azure,DIRECT // Azure
@@ -33,7 +30,7 @@ DOMAIN-KEYWORD,westlaw // Westlaw
 DOMAIN-KEYWORD,maybank2u // MAE
 DOMAIN-KEYWORD,payoneer // Payoneer
 DOMAIN-KEYWORD,cmbwinglungbank // CMB Wing Lung
-IP-CIDR,103.151.40.0/24,no-resolve // IDC.WIKI
+IP-CIDR,213.35.96.0/19,no-resolve // Oracle
 DOMAIN-KEYWORD,hsbc // HSBC
 DOMAIN-SUFFIX,ifastgb.com // iFast Global
 DOMAIN-KEYWORD,tdameritrade // TD Ameritrade
