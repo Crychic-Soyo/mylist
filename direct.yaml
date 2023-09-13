@@ -39,3 +39,5 @@ payload:
   - DOMAIN-KEYWORD,hsbc # HSBC
   - DOMAIN-SUFFIX,ifastgb.com # iFast Global
   - DOMAIN-KEYWORD,tdameritrade # TD Ameritrade
+  - DOMAIN-KEYWORD,bwh81.net # BWH
+  - IP-CIDR,67.230.160.0/20 # BWH
