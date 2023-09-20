@@ -42,3 +42,4 @@ payload:
   - DOMAIN-KEYWORD,bwh81.net # BWH
   - IP-CIDR,67.230.160.0/20 # BWH
   - IP-CIDR6,2001:470::/32 # HE-BWH
+  - IP-CIDR6,2a09:4c0:3e0::/48 # SBTB-Kirino
