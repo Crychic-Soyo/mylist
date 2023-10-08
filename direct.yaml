@@ -45,5 +45,5 @@ payload:
   - IP-CIDR6,2a05:dfc7:46:babb:ccdd::2/80 # SBTB-Kirino
   - IP-CIDR6,2603:c024:4000::/35 # OracleSG
   - DOMAIN-SUFFIX,seagm.com # GC
-  - IP-CIDR6,2605:6400:30::/48 # BuyVM
-  - IP-CIDR,107.189.0.0/21 # BuyVM
+  - DOMAIN-SUFFIX,infini-cloud.net # TeraCloud
+  - DOMAIN-SUFFIX,teracloud.jp # TeraCloud
