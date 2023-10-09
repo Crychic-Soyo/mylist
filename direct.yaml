@@ -47,3 +47,4 @@ payload:
   - DOMAIN-SUFFIX,seagm.com # GC
   - DOMAIN-SUFFIX,infini-cloud.net # TeraCloud
   - DOMAIN-SUFFIX,teracloud.jp # TeraCloud
+  - DOMAIN-SUFFIX,koofr.net # Koofr
