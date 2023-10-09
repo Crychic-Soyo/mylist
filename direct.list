@@ -13,7 +13,7 @@ IP-CIDR,38.45.65.0/24,DIRECT,no-resolve // Little Creek
 IP-CIDR,3.112.0.0/14,DIRECT,no-resolve // OVH
 IP-CIDR6,2603:c022:8000::/35,no-resolve // Oracle
 IP-CIDR6,2001:550:5a00::/48,no-resolve // Little Creek
-IP-CIDR,193.122.112.0/21 // Oracle
+IP-CIDR,193.122.112.0/21,no-resolve // Oracle
 DOMAIN-KEYWORD,littlecreek,DIRECT // Little Creek
 DOMAIN-KEYWORD,oracle // Oracle
 DOMAIN-KEYWORD,oraclecloud // Oracle
