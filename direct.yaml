@@ -48,3 +48,4 @@ payload:
   - DOMAIN-SUFFIX,infini-cloud.net # TeraCloud
   - DOMAIN-SUFFIX,teracloud.jp # TeraCloud
   - DOMAIN-SUFFIX,koofr.net # Koofr
+  - IP-CIDR6,2603:c021:8000::/35,no-resolve # Oracle
