@@ -20,8 +20,6 @@ DOMAIN-KEYWORD,oraclecloud // Oracle
 DOMAIN-KEYWORD,azure,DIRECT // Azure
 DOMAIN,outlook.office365.com // Exchange
 DOMAIN,eas.outlook.com // Exchange
-DOMAIN-KEYWORD,imap,DIRECT // Mail
-DOMAIN-KEYWORD,smtp,DIRECT // Mail
 IP-CIDR,162.14.0.0/18,no-resolve // Tencent AIA
 DOMAIN-KEYWORD,vultr // Vultr
 DOMAIN-KEYWORD,heinonline // HeinOnline
