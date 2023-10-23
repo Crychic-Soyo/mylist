@@ -47,3 +47,4 @@ IP-CIDR6,2a12:f8c1:50::/48,no-resolve // Akile
 DOMAIN-SUFFIX,blog.jp // Blog
 DOMAIN-SUFFIX,gcash.com // GCash
 DOMAIN-SUFFIX,wcl-law.com // Blog
+DOMAIN-SUFFIX,multi-byte.io // esender
