@@ -1,51 +1,48 @@
-DOMAIN-KEYWORD,dukascopy,DIRECT // Dukascopy
-DOMAIN-KEYWORD,stripe,DIRECT // Stripe
-DOMAIN-KEYWORD,americanexpress,DIRECT // AMEX
-DOMAIN-KEYWORD,capitalone,DIRECT // C1
-DOMAIN-KEYWORD,wise,DIRECT // Wise
-DOMAIN-KEYWORD,tapngo,DIRECT // Tap&Go
-DOMAIN-KEYWORD,cncbinternational,DIRECT // CITIC Intl
-DOMAIN-SUFFIX,wcl-law.com // Blog
-DOMAIN-KEYWORD,tex0n // DNS
-IP-CIDR,15.204.57.0/24,DIRECT,no-resolve // OVH
-IP-CIDR,20.24.100.0/24,DIRECT,no-resolve // Azure
-IP-CIDR,38.45.65.0/24,DIRECT,no-resolve // Little Creek
-IP-CIDR,3.112.0.0/14,DIRECT,no-resolve // OVH
-IP-CIDR6,2603:c022:8000::/35,no-resolve // Oracle
-IP-CIDR6,2001:550:5a00::/48,no-resolve // Little Creek
-IP-CIDR,193.122.112.0/21,no-resolve // Oracle
-DOMAIN-KEYWORD,littlecreek // Little Creek
-DOMAIN-KEYWORD,oracle // Oracle
-DOMAIN-KEYWORD,oraclecloud // Oracle
-DOMAIN-KEYWORD,azure // Azure
-DOMAIN,outlook.office365.com // Exchange
-DOMAIN,eas.outlook.com // Exchange
-IP-CIDR,162.14.0.0/18,no-resolve // Tencent AIA
-DOMAIN-KEYWORD,vultr // Vultr
-DOMAIN-KEYWORD,heinonline // HeinOnline
-DOMAIN-KEYWORD,pyypl // Pyypl
-DOMAIN-KEYWORD,westlaw // Westlaw
-DOMAIN-KEYWORD,maybank2u // MAE
-DOMAIN-KEYWORD,payoneer // Payoneer
-DOMAIN-KEYWORD,cmbwinglungbank // CMB Wing Lung
-IP-CIDR,213.35.96.0/19,no-resolve // Oracle
-DOMAIN-KEYWORD,hsbc // HSBC
-DOMAIN-SUFFIX,ifastgb.com // iFast Global
-DOMAIN-KEYWORD,tdameritrade // TD Ameritrade
-DOMAIN-KEYWORD,bwh81.net // BWH
-IP-CIDR,67.230.160.0/20,no-resolve // BWH
-IP-CIDR,173.242.124.0/22,no-resolve // BWH
-IP-CIDR6,2001:470::/32,no-resolve // HE-BWH
-IP-CIDR6,2a05:dfc7:46:babb:ccdd::2/80,no-resolve // SBTB-Kirino
-IP-CIDR6,2603:c024:4000::/35,no-resolve // OracleSG
-DOMAIN-SUFFIX,seagm.com // GC
-DOMAIN-SUFFIX,infini-cloud.net // TeraCloud
-DOMAIN-SUFFIX,teracloud.jp // TeraCloud
-DOMAIN-SUFFIX,koofr.net // Koofr
-IP-CIDR6,2603:c021:8000::/35,no-resolve // Oracle
-IP-CIDR6,2a12:f8c1:50::/48,no-resolve // Akile
-DOMAIN-SUFFIX,blog.jp // Blog
-DOMAIN-SUFFIX,gcash.com // GCash
-DOMAIN-SUFFIX,wcl-law.com // Blog
-DOMAIN-SUFFIX,multi-byte.io // esender
-DOMAIN-SUFFIX,131030.xyz // monitor
+DOMAIN-KEYWORD,dukascopy,DIRECT
+DOMAIN-KEYWORD,stripe,DIRECT
+DOMAIN-KEYWORD,americanexpress,DIRECT
+DOMAIN-KEYWORD,capitalone,DIRECT
+DOMAIN-KEYWORD,wise,DIRECT
+DOMAIN-KEYWORD,tapngo,DIRECT
+DOMAIN-KEYWORD,cncbinternational,DIRECT
+DOMAIN-SUFFIX,wcl-law.com
+DOMAIN-KEYWORD,tex0n
+IP-CIDR,15.204.57.0/24,no-resolve
+IP-CIDR,20.24.100.0/24,no-resolve
+IP-CIDR,38.45.65.0/24,no-resolve
+IP-CIDR,3.112.0.0/14,no-resolve
+IP-CIDR6,2603:c022:8000::/35,no-resolve
+IP-CIDR6,2001:550:5a00::/48,no-resolve
+IP-CIDR,193.122.112.0/21,no-resolve
+DOMAIN-KEYWORD,littlecreek
+DOMAIN-KEYWORD,oracle
+DOMAIN-KEYWORD,oraclecloud
+DOMAIN-KEYWORD,azure
+DOMAIN,outlook.office365.com
+DOMAIN,eas.outlook.com
+IP-CIDR,162.14.0.0/18,no-resolve
+DOMAIN-KEYWORD,vultr
+DOMAIN-KEYWORD,heinonline
+DOMAIN-KEYWORD,pyypl
+DOMAIN-KEYWORD,westlaw
+DOMAIN-KEYWORD,maybank2u
+DOMAIN-KEYWORD,payoneer
+DOMAIN-KEYWORD,cmbwinglungbank
+IP-CIDR,213.35.96.0/19,no-resolve
+DOMAIN-KEYWORD,hsbc
+DOMAIN-SUFFIX,ifastgb.com
+DOMAIN-KEYWORD,tdameritrade
+DOMAIN-KEYWORD,bwh81.net
+IP-CIDR,67.230.160.0/20,no-resolve
+IP-CIDR,173.242.124.0/22,no-resolve
+IP-CIDR6,2001:470::/32,no-resolve
+IP-CIDR6,2603:c024:4000::/35,no-resolve
+DOMAIN-SUFFIX,seagm.com
+DOMAIN-SUFFIX,infini-cloud.net
+DOMAIN-SUFFIX,teracloud.jp
+DOMAIN-SUFFIX,koofr.net
+IP-CIDR6,2603:c021:8000::/35,no-resolve
+DOMAIN-SUFFIX,blog.jp
+DOMAIN-SUFFIX,gcash.com
+DOMAIN-SUFFIX,multi-byte.io
+DOMAIN-SUFFIX,131030.xyz
