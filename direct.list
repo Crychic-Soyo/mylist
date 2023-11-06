@@ -14,10 +14,10 @@ IP-CIDR,3.112.0.0/14,DIRECT,no-resolve // OVH
 IP-CIDR6,2603:c022:8000::/35,no-resolve // Oracle
 IP-CIDR6,2001:550:5a00::/48,no-resolve // Little Creek
 IP-CIDR,193.122.112.0/21,no-resolve // Oracle
-DOMAIN-KEYWORD,littlecreek,DIRECT // Little Creek
+DOMAIN-KEYWORD,littlecreek // Little Creek
 DOMAIN-KEYWORD,oracle // Oracle
 DOMAIN-KEYWORD,oraclecloud // Oracle
-DOMAIN-KEYWORD,azure,DIRECT // Azure
+DOMAIN-KEYWORD,azure // Azure
 DOMAIN,outlook.office365.com // Exchange
 DOMAIN,eas.outlook.com // Exchange
 IP-CIDR,162.14.0.0/18,no-resolve // Tencent AIA
@@ -48,3 +48,4 @@ DOMAIN-SUFFIX,blog.jp // Blog
 DOMAIN-SUFFIX,gcash.com // GCash
 DOMAIN-SUFFIX,wcl-law.com // Blog
 DOMAIN-SUFFIX,multi-byte.io // esender
+DOMAIN-SUFFIX,131030.xyz // monitor
