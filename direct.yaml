@@ -53,3 +53,6 @@ payload:
   - DOMAIN-SUFFIX,wcl-law.com # Blog
   - DOMAIN-SUFFIX,multi-byte.io # esender
   - DOMAIN-SUFFIX,131030.xyz # monitor
+  - DOMIAN-SUFFIX,ggy.net # GGY
+  - IP-CIDR,38.174.112.0/24,no-resolve # GGY-v4
+  - IP-CIDR6,2602:fce1:474::/48,no-resolve # GGY-v6
