@@ -46,3 +46,6 @@ DOMAIN-SUFFIX,blog.jp
 DOMAIN-SUFFIX,gcash.com
 DOMAIN-SUFFIX,multi-byte.io
 DOMAIN-SUFFIX,131030.xyz
+DOMIAN-SUFFIX,ggy.net
+IP-CIDR,38.174.112.0/24,no-resolve
+IP-CIDR6,2602:fce1:474::/48,no-resolve
