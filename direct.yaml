@@ -56,3 +56,4 @@ payload:
   - DOMIAN-SUFFIX,ggy.net # GGY
   - IP-CIDR,38.174.112.0/24,no-resolve # GGY-v4
   - IP-CIDR6,2602:fce1:474::/48,no-resolve # GGY-v6
+  - DOMAIN-SUFFIX, bigchick.xyz # JizaiYun
