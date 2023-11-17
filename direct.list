@@ -50,3 +50,5 @@ DOMAIN-SUFFIX,ggy.net
 IP-CIDR,38.174.112.0/24,no-resolve
 IP-CIDR6,2602:fce1:474::/48,no-resolve
 DOMAIN-SUFFIX,bigchick.xyz
+DOMAIN-KEYWORD,paypal
+USER-AGENT,PayPal*
