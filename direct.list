@@ -54,3 +54,4 @@ DOMAIN-KEYWORD,paypal
 USER-AGENT,PayPal*
 DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,icloud
+DOMAIN-SUFFIX,crashlytics.com
