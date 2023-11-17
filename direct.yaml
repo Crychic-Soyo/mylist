@@ -58,3 +58,5 @@ payload:
   - IP-CIDR6,2602:fce1:474::/48,no-resolve # GGY-v6
   - DOMAIN-SUFFIX, bigchick.xyz # JizaiYun
   - DOMAIN-KEYWORD,paypal
+  - DOMAIN-KEYWORD,apple
+  - DOMAIN-KEYWORD,icloud
