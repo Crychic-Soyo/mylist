@@ -52,3 +52,5 @@ IP-CIDR6,2602:fce1:474::/48,no-resolve
 DOMAIN-SUFFIX,bigchick.xyz
 DOMAIN-KEYWORD,paypal
 USER-AGENT,PayPal*
+DOMAIN-KEYWORD,apple
+DOMAIN-KEYWORD,icloud
