@@ -52,12 +52,12 @@ payload:
   - DOMAIN-SUFFIX,gcash.com # GCash
   - DOMAIN-SUFFIX,wcl-law.com # Blog
   - DOMAIN-SUFFIX,multi-byte.io # esender
-  - DOMAIN-SUFFIX,131030.xyz # monitor
   - DOMAIN-SUFFIX,ggy.net # GGY
   - IP-CIDR,38.174.112.0/24,no-resolve # GGY-v4
   - IP-CIDR6,2602:fce1:474::/48,no-resolve # GGY-v6
   - DOMAIN-SUFFIX, bigchick.xyz # JizaiYun
-  - DOMAIN-KEYWORD,paypal
-  - DOMAIN-KEYWORD,apple
-  - DOMAIN-KEYWORD,icloud
-  - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN-KEYWORD,paypal # PayPal
+  - DOMAIN-KEYWORD,apple # Apple
+  - DOMAIN-KEYWORD,icloud # Apple
+  - DOMAIN-SUFFIX,me.com # Apple
+  - DOMAIN-SUFFIX,crashlytics.com # Apple
