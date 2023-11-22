@@ -19,5 +19,3 @@ payload:
   - DOMAIN-KEYWORD,equifax # Equifax
   - DOMAIN-KEYWORD,kraken  # Kraken
   - DOMAIN-SUFFIX,capitaloneshopping.com # C1 Offer
-  - DOMAIN-KEYWORD,google
-  - DOMAIN-SUFFIX,g.co
