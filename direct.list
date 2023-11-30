@@ -55,3 +55,5 @@ DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,icloud
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,crashlytics.com
+IP-CIDR,154.17.26.0/24,no-resolve
+IP-CIDR6,2605:52c0:2::/48,no-resolve
