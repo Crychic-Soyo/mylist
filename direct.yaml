@@ -8,7 +8,6 @@ payload:
   - DOMAIN-KEYWORD,cncbinternational # CITIC Intl
   - DOMAIN,cloud.wcl-law.com
   - DOMAIN,pan.wcl-law.com
-  - DOMAIN,monitor.wcl-law.com
   - DOMAIN-KEYWORD,oracle # Oracle
   - DOMAIN-KEYWORD,oraclecloud # Oracle
   - DOMAIN-KEYWORD,azure,DIRECT # Azure
