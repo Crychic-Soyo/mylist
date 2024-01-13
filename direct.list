@@ -5,8 +5,12 @@ DOMAIN-KEYWORD,capitalone,DIRECT
 DOMAIN-KEYWORD,wise,DIRECT
 DOMAIN-KEYWORD,tapngo,DIRECT
 DOMAIN-KEYWORD,cncbinternational,DIRECT
-DOMAIN-SUFFIX,wcl-law.com
-DOMAIN-KEYWORD,tex0n
+DOMAIN,wcl-law.com
+DOMAIN,cloud.wcl-law.com
+DOMAIN,img.wcl-law.com
+DOMAIN,gh.wcl-law.com
+DOMAIN,ip.wcl-law.com
+DOMAIN,monitor.wcl-law.com
 IP-CIDR,15.204.57.0/24,no-resolve
 IP-CIDR,20.24.100.0/24,no-resolve
 IP-CIDR,38.45.65.0/24,no-resolve
