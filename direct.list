@@ -5,8 +5,7 @@ DOMAIN-KEYWORD,capitalone,DIRECT
 DOMAIN-KEYWORD,wise,DIRECT
 DOMAIN-KEYWORD,tapngo,DIRECT
 DOMAIN-KEYWORD,cncbinternational,DIRECT
-DOMAIN,cloud.wcl-law.com
-DOMAIN,pan.wcl-law.com
+IP-CIDR,193.122.112.0/21,no-resolve
 DOMAIN-KEYWORD,littlecreek
 DOMAIN-KEYWORD,oracle
 DOMAIN-KEYWORD,oraclecloud
