@@ -6,8 +6,7 @@ payload:
   - DOMAIN-KEYWORD,wise # Wise
   - DOMAIN-KEYWORD,tapngo # Tap&Go
   - DOMAIN-KEYWORD,cncbinternational # CITIC Intl
-  - DOMAIN,cloud.wcl-law.com
-  - DOMAIN,pan.wcl-law.com
+  - IP-CIDR,193.122.112.0/21,no-resolve
   - DOMAIN-KEYWORD,oracle # Oracle
   - DOMAIN-KEYWORD,oraclecloud # Oracle
   - DOMAIN-KEYWORD,azure,DIRECT # Azure
