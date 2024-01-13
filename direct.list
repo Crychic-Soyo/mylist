@@ -36,8 +36,6 @@ IP-CIDR,213.35.96.0/19,no-resolve
 DOMAIN-KEYWORD,hsbc
 DOMAIN-SUFFIX,ifastgb.com
 DOMAIN-KEYWORD,tdameritrade
-DOMAIN-KEYWORD,bwh81.net
-IP-CIDR,67.230.160.0/20,no-resolve
 IP-CIDR,173.242.124.0/22,no-resolve
 IP-CIDR6,2001:470::/32,no-resolve
 IP-CIDR6,2603:c024:4000::/35,no-resolve
@@ -49,9 +47,6 @@ IP-CIDR6,2603:c021:8000::/35,no-resolve
 DOMAIN-SUFFIX,blog.jp
 DOMAIN-SUFFIX,gcash.com
 DOMAIN-SUFFIX,multi-byte.io
-DOMAIN-SUFFIX,ggy.net
-IP-CIDR,38.174.112.0/24,no-resolve
-IP-CIDR6,2602:fce1:474::/48,no-resolve
 DOMAIN-SUFFIX,bigchick.xyz
 DOMAIN-KEYWORD,paypal
 USER-AGENT,PayPal*
@@ -59,5 +54,3 @@ DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,icloud
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,crashlytics.com
-IP-CIDR,154.17.26.0/24,no-resolve
-IP-CIDR6,2605:52c0:2::/48,no-resolve
