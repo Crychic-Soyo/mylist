@@ -13,7 +13,6 @@ DOMAIN,ip.wcl-law.com
 DOMAIN,monitor.wcl-law.com
 IP-CIDR,15.204.57.0/24,no-resolve
 IP-CIDR,20.24.100.0/24,no-resolve
-IP-CIDR,38.45.65.0/24,no-resolve
 IP-CIDR,3.112.0.0/14,no-resolve
 IP-CIDR6,2603:c022:8000::/35,no-resolve
 IP-CIDR6,2001:550:5a00::/48,no-resolve
