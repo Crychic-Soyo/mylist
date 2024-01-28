@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,bigchick.xyz
 DOMAIN-KEYWORD,paypal
 USER-AGENT,PayPal*
 DOMAIN-KEYWORD,apple
+DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,icloud
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,crashlytics.com
