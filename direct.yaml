@@ -33,5 +33,6 @@ payload:
   - DOMAIN-KEYWORD,paypal # PayPal
   - DOMAIN-KEYWORD,apple # Apple
   - DOMAIN-KEYWORD,icloud # Apple
+  - DOMAIN-KEYWORD,microsoft # Microsoft
   - DOMAIN-SUFFIX,me.com # Apple
   - DOMAIN-SUFFIX,crashlytics.com # Apple
