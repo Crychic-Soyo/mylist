@@ -29,10 +29,10 @@ payload:
   - DOMAIN-SUFFIX,blog.jp # Blog
   - DOMAIN-SUFFIX,gcash.com # GCash
   - DOMAIN-SUFFIX,multi-byte.io # esender
-  - DOMAIN-SUFFIX, bigchick.xyz # JizaiYun
   - DOMAIN-KEYWORD,paypal # PayPal
   - DOMAIN-KEYWORD,apple # Apple
   - DOMAIN-KEYWORD,icloud # Apple
   - DOMAIN-KEYWORD,microsoft # Microsoft
   - DOMAIN-SUFFIX,me.com # Apple
   - DOMAIN-SUFFIX,crashlytics.com # Apple
+  - DOMAIN-KEYWORD,yoomoney # YooMoney
