@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,blog.jp # Blog
   - DOMAIN-SUFFIX,gcash.com # GCash
   - DOMAIN-SUFFIX,multi-byte.io # esender
+  - DOMAIN-SUFFIX,bigchick.xyz # bigchick
   - DOMAIN-KEYWORD,paypal # PayPal
   - DOMAIN-KEYWORD,apple # Apple
   - DOMAIN-KEYWORD,icloud # Apple
