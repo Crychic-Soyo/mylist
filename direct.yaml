@@ -5,7 +5,20 @@ payload:
   - DOMAIN-KEYWORD,capitalone # C1
   - DOMAIN-KEYWORD,wise # Wise
   - DOMAIN-KEYWORD,tapngo # Tap&Go
-  - DOMAIN-KEYWORD,cncbinternational # CITIC Intl
+  - DOMAIN-KEYWORD,cncbinternational # CNCBI
+  - DOMAIN-SUFFIX,cncbinternational.com # CNCBI
+  - DOMAIN-KEYWORD,hsbc # HSBC
+  - DOMAIN-SUFFIX,hsbc.com.hk # HSBC HK
+  - DOMAIN-KEYWORD,bochk # BOC HK
+  - DOMAIN-SUFFIX,bochk.com # BOC HK
+  - DOMAIN-KEYWORD,hangseng # HSB HK
+  - DOMAIN-SUFFIX,hangseng.com # HSB HK
+  - DOMAIN-SUFFIX,ncb.com.hk # NCB HK
+  - DOMAIN-SUFFIX,za.group # ZA
+  - DOMAIN-KEYWORD,livibank # LIVI
+  - DOMAIN-KEYWORD,airstarbank # Airstar
+  - DOMAIN-KEYWORD,antbank # ANT
+  - DOMAIN-KEYWORD,fusionbank # FUSION
   - IP-CIDR,193.122.112.0/21,no-resolve
   - DOMAIN-KEYWORD,oracle # Oracle
   - DOMAIN-KEYWORD,oraclecloud # Oracle
@@ -19,7 +32,7 @@ payload:
   - DOMAIN-KEYWORD,maybank2u # MAE
   - DOMAIN-KEYWORD,payoneer # Payoneer
   - DOMAIN-KEYWORD,cmbwinglungbank # CMB Wing Lung
-  - DOMAIN-KEYWORD,hsbc # HSBC
+
   - DOMAIN-SUFFIX,ifastgb.com # iFast Global
   - DOMAIN-KEYWORD,tdameritrade # TD Ameritrade
   - DOMAIN-SUFFIX,seagm.com # GC
