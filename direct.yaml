@@ -32,7 +32,7 @@ payload:
   - DOMAIN-KEYWORD,maybank2u # MAE
   - DOMAIN-KEYWORD,payoneer # Payoneer
   - DOMAIN-KEYWORD,cmbwinglungbank # CMB Wing Lung
-
+  - DOMAIN-SUFFIX,sc.com # Standard Chartered
   - DOMAIN-SUFFIX,ifastgb.com # iFast Global
   - DOMAIN-KEYWORD,tdameritrade # TD Ameritrade
   - DOMAIN-SUFFIX,seagm.com # GC
@@ -50,3 +50,5 @@ payload:
   - DOMAIN-SUFFIX,me.com # Apple
   - DOMAIN-SUFFIX,crashlytics.com # Apple
   - DOMAIN-KEYWORD,yoomoney # YooMoney
+  - DOMAIN-SUFFIX,wechat.com # WeChat
+  - DOMAIN-SUFFIX,wcl-law.com # Blog
