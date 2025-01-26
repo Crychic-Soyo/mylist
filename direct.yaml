@@ -1,4 +1,8 @@
 payload:
+  - DOMAIN-SUFFIX,marketingcloudapis.com # N26
+  - DOMAIN-KEYWORD,number26 # N26
+  - DOMAIN-KEYWORD,tech26 # N26
+  - DOMAIN-KEYWORD,n26 # N26
   - DOMAIN-KEYWORD,dukascopy # Dukascopy
   - DOMAIN-KEYWORD,stripe # Stripe
   - DOMAIN-KEYWORD,americanexpress # AMEX
@@ -34,7 +38,6 @@ payload:
   - DOMAIN-KEYWORD,cmbwinglungbank # CMB Wing Lung
   - DOMAIN-SUFFIX,sc.com # Standard Chartered
   - DOMAIN-SUFFIX,ifastgb.com # iFast Global
-  - DOMAIN-KEYWORD,tdameritrade # TD Ameritrade
   - DOMAIN-SUFFIX,seagm.com # GC
   - DOMAIN-SUFFIX,infini-cloud.net # TeraCloud
   - DOMAIN-SUFFIX,teracloud.jp # TeraCloud
@@ -42,14 +45,12 @@ payload:
   - DOMAIN-SUFFIX,blog.jp # Blog
   - DOMAIN-SUFFIX,gcash.com # GCash
   - DOMAIN-SUFFIX,multi-byte.io # esender
-  - DOMAIN-SUFFIX,bigchick.xyz # bigchick
   - DOMAIN-KEYWORD,paypal # PayPal
   - DOMAIN-KEYWORD,apple # Apple
   - DOMAIN-KEYWORD,icloud # Apple
   - DOMAIN-KEYWORD,microsoft # Microsoft
   - DOMAIN-SUFFIX,me.com # Apple
   - DOMAIN-SUFFIX,crashlytics.com # Apple
-  - DOMAIN-KEYWORD,yoomoney # YooMoney
   - DOMAIN-SUFFIX,wechat.com # WeChat
   - DOMAIN-SUFFIX,wcl-law.com # Blog
   - DOMAIN-SUFFIX,chinapku-my.sharepoint.com # OneDrive
