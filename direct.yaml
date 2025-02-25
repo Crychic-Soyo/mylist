@@ -26,11 +26,10 @@ payload:
   - DOMAIN,outlook.office365.com # Exchange
   - DOMAIN,eas.outlook.com # Exchange
   - IP-CIDR,162.14.0.0/18,no-resolve # Tencent AIA
-  - DOMAIN-KEYWORD,vultr # Vultr
   - DOMAIN-KEYWORD,heinonline # HeinOnline
   - DOMAIN-KEYWORD,westlaw # Westlaw
+  - DOMAIN-KEYWORD,jstor # JSTOR
   - DOMAIN-KEYWORD,maybank2u # MAE
-  - DOMAIN-KEYWORD,payoneer # Payoneer
   - DOMAIN-KEYWORD,cmbwinglungbank # CMB Wing Lung
   - DOMAIN-SUFFIX,sc.com # Standard Chartered
   - DOMAIN-SUFFIX,ifastgb.com # iFast Global
@@ -39,7 +38,6 @@ payload:
   - DOMAIN-SUFFIX,teracloud.jp # TeraCloud
   - DOMAIN-SUFFIX,koofr.net # Koofr
   - DOMAIN-SUFFIX,blog.jp # Blog
-  - DOMAIN-SUFFIX,gcash.com # GCash
   - DOMAIN-SUFFIX,multi-byte.io # esender
   - DOMAIN-KEYWORD,paypal # PayPal
   - DOMAIN-KEYWORD,apple # Apple
