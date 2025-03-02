@@ -48,4 +48,4 @@ payload:
   - DOMAIN-SUFFIX,wechat.com # WeChat
   - DOMAIN-SUFFIX,wcl-law.com # Blog
   - DOMAIN-SUFFIX,chinapku-my.sharepoint.com # OneDrive
-  - DOMAIN-SUFFIX,pub.3gppnetwork.org # WiFi-Calling
+  - IP-CIDR,208.54.0.0/16 # T-Mobile WiFi-Calling
