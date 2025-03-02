@@ -48,4 +48,4 @@ DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,wcl-law.com
 DOMAIN-SUFFIX,chinapku-my.sharepoint.com
-DOMAIN-SUFFIX,pub.3gppnetwork.org
+IP-CIDR,208.54.0.0/16
