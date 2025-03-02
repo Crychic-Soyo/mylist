@@ -48,3 +48,4 @@ payload:
   - DOMAIN-SUFFIX,wechat.com # WeChat
   - DOMAIN-SUFFIX,wcl-law.com # Blog
   - DOMAIN-SUFFIX,chinapku-my.sharepoint.com # OneDrive
+  - DOMAIN-SUFFIX,pub.3gppnetwork.org # WiFi-Calling
