@@ -49,3 +49,4 @@ payload:
   - DOMAIN-SUFFIX,interactivebrokers.com # IBKR
   - DOMAIN-SUFFIX,ibkr.com # IBKR
   - DOMAIN-SUFFIX,ibllc.com # IBKR
+  - DOMAIN-KEYWORD,schwab # Charles Schwab
