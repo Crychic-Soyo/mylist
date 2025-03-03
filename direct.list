@@ -5,14 +5,10 @@ DOMAIN-KEYWORD,capitalone
 DOMAIN-KEYWORD,wise
 DOMAIN-KEYWORD,tapngo
 DOMAIN-KEYWORD,cncbinternational
-DOMAIN-SUFFIX,cncbinternational.com
 DOMAIN-KEYWORD,hsbc
-DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,sc.com
 DOMAIN-KEYWORD,bochk
-DOMAIN-SUFFIX,bochk.com
 DOMAIN-KEYWORD,hangseng
-DOMAIN-SUFFIX,hangseng.com
 DOMAIN-SUFFIX,ncb.com.hk
 DOMAIN-SUFFIX,za.group
 DOMAIN-KEYWORD,livibank
@@ -49,3 +45,6 @@ DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,wcl-law.com
 DOMAIN-SUFFIX,chinapku-my.sharepoint.com
 IP-CIDR,208.54.0.0/16
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,ibllc.com
