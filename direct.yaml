@@ -50,3 +50,5 @@ payload:
   - DOMAIN-SUFFIX,ibkr.com # IBKR
   - DOMAIN-SUFFIX,ibllc.com # IBKR
   - DOMAIN-KEYWORD,schwab # Charles Schwab
+  - DOMAIN-KEYWORD,fsmone # FSMOne
+  - DOMAIN-KEYWORD,fundsupermart # FSMOne
