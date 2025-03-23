@@ -55,3 +55,8 @@ payload:
   - DOMAIN-KEYWORD,schwab # Charles Schwab
   - DOMAIN-KEYWORD,fsmone # FSMOne
   - DOMAIN-KEYWORD,fundsupermart # FSMOne
+  - DOMAIN-SUFFIX,marketingcloudapis.com # N26
+  - DOMAIN-KEYWORD,number26 # N26
+  - DOMAIN-KEYWORD,tech26 # N26
+  - DOMAIN-KEYWORD,n26 # N26
+  - DOMAIN-KEYWORD,fidelity # Fidelity
