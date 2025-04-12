@@ -48,7 +48,8 @@ payload:
   - DOMAIN-SUFFIX,wechat.com # WeChat
   - DOMAIN-SUFFIX,wcl-law.com # Blog
   - DOMAIN-SUFFIX,chinapku-my.sharepoint.com # OneDrive
-  - IP-CIDR,208.54.0.0/16 # T-Mobile WiFi-Calling
+  - DOMAIN-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org # T-Mobile VoWiFi
+  - DOMAIN-SUFFIX,mnc018.mcc502.pub.3gppnetwork.org # U Mobile VoWiFi
   - DOMAIN-SUFFIX,interactivebrokers.com # IBKR
   - DOMAIN-SUFFIX,ibkr.com # IBKR
   - DOMAIN-SUFFIX,ibllc.com # IBKR
