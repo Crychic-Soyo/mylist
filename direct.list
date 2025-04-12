@@ -47,7 +47,8 @@ DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,wcl-law.com
 DOMAIN-SUFFIX,chinapku-my.sharepoint.com
-IP-CIDR,208.54.0.0/16
+DOMAIN-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc018.mcc502.pub.3gppnetwork.org
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,ibllc.com
