@@ -51,6 +51,7 @@ payload:
   - DOMAIN-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org # T-Mobile VoWiFi
   - IP-ASN,38466  # U Mobile VoWiFi
   - IP-ASN,3320 # Telekom.de VoWiFi
+  - DOMAIN-SUFFIX,mnc005.mcc530.pub.3gppnetwork.spark.co.nz # Skinny VoWiFi
   - DOMAIN-SUFFIX,interactivebrokers.com # IBKR
   - DOMAIN-SUFFIX,ibkr.com # IBKR
   - DOMAIN-SUFFIX,ibllc.com # IBKR
