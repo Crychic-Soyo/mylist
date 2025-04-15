@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,infini-cloud.net
 DOMAIN-SUFFIX,teracloud.jp
 DOMAIN-SUFFIX,koofr.net
 DOMAIN-SUFFIX,blog.jp
+DOMAIN-SUFFIX,t-online.de
 DOMAIN-SUFFIX,multi-byte.io
 DOMAIN-KEYWORD,paypal
 USER-AGENT,PayPal*
@@ -41,6 +42,7 @@ DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,msftauth
 DOMAIN-KEYWORD,msauth
 DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,hotmail.com
 DOMAIN-KEYWORD,icloud
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,crashlytics.com
