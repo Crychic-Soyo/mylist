@@ -47,10 +47,7 @@ DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,wcl-law.com
 DOMAIN-SUFFIX,chinapku-my.sharepoint.com
-DOMAIN-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org
-IP-ASN,38466
-IP-ASN,3320
-DOMAIN-SUFFIX,mnc005.mcc530.pub.3gppnetwork.spark.co.nz
+DOMAIN-SUFFIX,3gppnetwork.org
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,ibllc.com
