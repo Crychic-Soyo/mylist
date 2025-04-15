@@ -35,6 +35,7 @@ payload:
   - DOMAIN-SUFFIX,teracloud.jp # TeraCloud
   - DOMAIN-SUFFIX,koofr.net # Koofr
   - DOMAIN-SUFFIX,blog.jp # Blog
+  - DOMAIN-SUFFIX,t-online.de # T-Online
   - DOMAIN-SUFFIX,multi-byte.io # esender
   - DOMAIN-KEYWORD,paypal # PayPal
   - DOMAIN-KEYWORD,apple # Apple
