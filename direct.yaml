@@ -1,65 +1,66 @@
 payload:
-  - DOMAIN-KEYWORD,dukascopy # Dukascopy
-  - DOMAIN-KEYWORD,stripe # Stripe
-  - DOMAIN-KEYWORD,americanexpress # AMEX
-  - DOMAIN-KEYWORD,capitalone # C1
-  - DOMAIN-KEYWORD,wise # Wise
-  - DOMAIN-KEYWORD,tapngo # Tap&Go
-  - DOMAIN-KEYWORD,cncbinternational # CNCBI
-  - DOMAIN-SUFFIX,cncbinternational.com # CNCBI
-  - DOMAIN-KEYWORD,hsbc # HSBC
-  - DOMAIN-KEYWORD,bochk # BOC HK
-  - DOMAIN-KEYWORD,hangseng # HSB HK
-  - DOMAIN-SUFFIX,ncb.com.hk # NCB HK
-  - DOMAIN-SUFFIX,za.group # ZA
-  - DOMAIN-KEYWORD,livibank # LIVI
-  - DOMAIN-KEYWORD,airstarbank # Airstar
-  - DOMAIN-KEYWORD,antbank # ANT
-  - DOMAIN-KEYWORD,fusionbank # FUSION
+  - DOMAIN-KEYWORD,dukascopy
+  - DOMAIN-KEYWORD,stripe
+  - DOMAIN-KEYWORD,americanexpress
+  - DOMAIN-KEYWORD,capitalone
+  - DOMAIN-KEYWORD,wise
+  - DOMAIN-KEYWORD,tapngo
+  - DOMAIN-KEYWORD,cncbinternational
+  - DOMAIN-KEYWORD,hsbc
+  - DOMAIN-SUFFIX,sc.com
+  - DOMAIN-KEYWORD,bochk
+  - DOMAIN-KEYWORD,hangseng
+  - DOMAIN-SUFFIX,ncb.com.hk
+  - DOMAIN-SUFFIX,za.group
+  - DOMAIN-KEYWORD,livibank
+  - DOMAIN-KEYWORD,airstarbank
+  - DOMAIN-KEYWORD,antbank
+  - DOMAIN-KEYWORD,fusionbank
+  - DOMAIN-KEYWORD,maybank2u
+  - DOMAIN-SUFFIX,ifastgb.com
+  - DOMAIN-SUFFIX,interactivebrokers.com
+  - DOMAIN-SUFFIX,ibkr.com
+  - DOMAIN-SUFFIX,ibllc.com
+  - DOMAIN-KEYWORD,schwab
+  - DOMAIN-SUFFIX,launchdarkly.com
+  - DOMAIN-KEYWORD,fsmone
+  - DOMAIN-KEYWORD,fundsupermart
+  - DOMAIN-SUFFIX,marketingcloudapis.com
+  - DOMAIN-KEYWORD,number26
+  - DOMAIN-KEYWORD,tech26
+  - DOMAIN-KEYWORD,n26
+  - DOMAIN-KEYWORD,fidelity
+  - DOMAIN-KEYWORD,revolut
+  - DOMAIN-SUFFIX,seagm.com
+  - DOMAIN-KEYWORD,paypal
+  - USER-AGENT,PayPal*
+  - DOMAIN-SUFFIX,multi-byte.io
+  - DOMAIN-SUFFIX,3gppnetwork.org
   - IP-CIDR,193.122.112.0/21,no-resolve
-  - DOMAIN-KEYWORD,oracle # Oracle
-  - DOMAIN-KEYWORD,oraclecloud # Oracle
-  - DOMAIN-KEYWORD,azure,DIRECT # Azure
-  - DOMAIN,outlook.office365.com # Exchange
-  - DOMAIN,eas.outlook.com # Exchange
-  - IP-CIDR,162.14.0.0/18,no-resolve # Tencent AIA
-  - DOMAIN-KEYWORD,heinonline # HeinOnline
-  - DOMAIN-KEYWORD,westlaw # Westlaw
-  - DOMAIN-KEYWORD,jstor # JSTOR
-  - DOMAIN-KEYWORD,maybank2u # MAE
-  - DOMAIN-KEYWORD,cmbwinglungbank # CMB Wing Lung
-  - DOMAIN-SUFFIX,sc.com # Standard Chartered
-  - DOMAIN-SUFFIX,ifastgb.com # iFast Global
-  - DOMAIN-SUFFIX,seagm.com # GC
-  - DOMAIN-SUFFIX,infini-cloud.net # TeraCloud
-  - DOMAIN-SUFFIX,teracloud.jp # TeraCloud
-  - DOMAIN-SUFFIX,koofr.net # Koofr
-  - DOMAIN-SUFFIX,blog.jp # Blog
-  - DOMAIN-SUFFIX,t-online.de # T-Online
-  - DOMAIN-SUFFIX,multi-byte.io # esender
-  - DOMAIN-KEYWORD,paypal # PayPal
-  - DOMAIN-KEYWORD,apple # Apple
-  - DOMAIN-KEYWORD,icloud # Apple
-  - DOMAIN-KEYWORD,microsoft # Microsoft
-  - DOMAIN-KEYWORD,msftauth # Microsoft
-  - DOMAIN-KEYWORD,msauth # Microsoft
-  - DOMAIN-SUFFIX,live.com # Microsoft
-  - DOMAIN-SUFFIX,hotmail.com # Microsoft
-  - DOMAIN-SUFFIX,me.com # Apple
-  - DOMAIN-SUFFIX,crashlytics.com # Apple
-  - DOMAIN-SUFFIX,wechat.com # WeChat
-  - DOMAIN-SUFFIX,wcl-law.com # Blog
-  - DOMAIN-SUFFIX,chinapku-my.sharepoint.com # OneDrive
-  - DOMAIN-SUFFIX,3gppnetwork.org # VoWiFi
-  - DOMAIN-SUFFIX,interactivebrokers.com # IBKR
-  - DOMAIN-SUFFIX,ibkr.com # IBKR
-  - DOMAIN-SUFFIX,ibllc.com # IBKR
-  - DOMAIN-KEYWORD,schwab # Charles Schwab
-  - DOMAIN-KEYWORD,fsmone # FSMOne
-  - DOMAIN-KEYWORD,fundsupermart # FSMOne
-  - DOMAIN-SUFFIX,marketingcloudapis.com # N26
-  - DOMAIN-KEYWORD,number26 # N26
-  - DOMAIN-KEYWORD,tech26 # N26
-  - DOMAIN-KEYWORD,n26 # N26
-  - DOMAIN-KEYWORD,fidelity # Fidelity
-  - DOMAIN-KEYWORD,revolut # Revolut
+  - DOMAIN-KEYWORD,littlecreek
+  - DOMAIN-KEYWORD,oracle
+  - DOMAIN-KEYWORD,oraclecloud
+  - DOMAIN-KEYWORD,azure
+  - DOMAIN,outlook.office365.com
+  - DOMAIN,eas.outlook.com
+  - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,msftauth
+  - DOMAIN-KEYWORD,msauth
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,hotmail.com
+  - DOMAIN-SUFFIX,chinapku-my.sharepoint.com
+  - DOMAIN-KEYWORD,apple
+  - DOMAIN-KEYWORD,icloud
+  - DOMAIN-SUFFIX,me.com
+  - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN-SUFFIX,wechat.com
+  - DOMAIN-SUFFIX,infini-cloud.net
+  - DOMAIN-SUFFIX,teracloud.jp
+  - DOMAIN-SUFFIX,koofr.net
+  - DOMAIN-SUFFIX,blog.jp
+  - DOMAIN-SUFFIX,t-online.de
+  - DOMAIN-SUFFIX,wcl-law.com
+  - IP-CIDR,162.14.0.0/18,no-resolve
+  - DOMAIN-KEYWORD,heinonline
+  - DOMAIN-KEYWORD,westlaw
+  - DOMAIN-KEYWORD,jstor
