@@ -43,6 +43,7 @@ payload:
   - DOMAIN-KEYWORD,msftauth # Microsoft
   - DOMAIN-KEYWORD,msauth # Microsoft
   - DOMAIN-SUFFIX,live.com # Microsoft
+  - DOMAIN-SUFFIX,hotmail.com # Microsoft
   - DOMAIN-SUFFIX,me.com # Apple
   - DOMAIN-SUFFIX,crashlytics.com # Apple
   - DOMAIN-SUFFIX,wechat.com # WeChat
