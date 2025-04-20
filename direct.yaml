@@ -1,4 +1,5 @@
 payload:
+# Finance
   - DOMAIN-KEYWORD,dukascopy
   - DOMAIN-KEYWORD,stripe
   - DOMAIN-KEYWORD,americanexpress
@@ -36,6 +37,7 @@ payload:
   - USER-AGENT,PayPal*
   - DOMAIN-SUFFIX,multi-byte.io
   - DOMAIN-SUFFIX,3gppnetwork.org
+# Cloud
   - IP-CIDR,193.122.112.0/21,no-resolve
   - DOMAIN-KEYWORD,littlecreek
   - DOMAIN-KEYWORD,oracle
@@ -49,6 +51,116 @@ payload:
   - DOMAIN,gh.wcl-law.com
   - DOMAIN,ruleset-mirror.skk.moe
   - IP-CIDR,162.14.0.0/18,no-resolve
+# DB
   - DOMAIN-KEYWORD,heinonline
   - DOMAIN-KEYWORD,westlaw
   - DOMAIN-KEYWORD,jstor
+# Apple
+  - DOMAIN-SUFFIX,apple-dns.net
+  - DOMAIN-SUFFIX,push-apple.com.akadns.net
+  - DOMAIN-SUFFIX,organicfruitapps.com
+  - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN-SUFFIX,apple-cloudkit.com
+  - DOMAIN-SUFFIX,apple-mapkit.com
+  - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,appstore.com
+  - DOMAIN-SUFFIX,aaplimg.com
+  - DOMAIN-SUFFIX,itunes.com
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,me.com
+  - DOMAIN-SUFFIX,appsto.re
+  - DOMAIN-SUFFIX,apple.co
+  - PROCESS-NAME,trustd
+  - PROCESS-NAME,netbiosd
+  - PROCESS-NAME,com.apple.geod
+  - PROCESS-NAME,mapspushd
+  - PROCESS-NAME,com.apple.Maps
+  - PROCESS-NAME,apsd
+  - PROCESS-NAME,fmfd
+  - PROCESS-NAME,findmydevice-user-agent
+  - PROCESS-NAME,CoreLocationAgent
+  - PROCESS-NAME,WeatherWidget
+# Microsoft
+  - DOMAIN-SUFFIX,trafficmanager.net
+  - DOMAIN-SUFFIX,msftauthimages.net
+  - DOMAIN-SUFFIX,virtualearth.net
+  - DOMAIN-SUFFIX,msauthimages.net
+  - DOMAIN-SUFFIX,windows-ppe.net
+  - DOMAIN-SUFFIX,phonefactor.net
+  - DOMAIN-SUFFIX,msappproxy.net
+  - DOMAIN-SUFFIX,officeppe.net
+  - DOMAIN-SUFFIX,edgesuite.net
+  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,msftauth.net
+  - DOMAIN-SUFFIX,cloudapp.net
+  - DOMAIN-SUFFIX,windows.net
+  - DOMAIN-SUFFIX,onenote.net
+  - DOMAIN-SUFFIX,acompli.net
+  - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,msedge.net
+  - DOMAIN-SUFFIX,msecnd.net
+  - DOMAIN-SUFFIX,msauth.net
+  - DOMAIN-SUFFIX,azure.net
+  - DOMAIN-SUFFIX,msft.net
+  - DOMAIN-SUFFIX,live.net
+  - DOMAIN-SUFFIX,asp.net
+  - DOMAIN-SUFFIX,yammerusercontent.com
+  - DOMAIN-SUFFIX,skypeforbusiness.com
+  - DOMAIN-SUFFIX,sharepointonline.com
+  - DOMAIN-SUFFIX,cloudappsecurity.com
+  - DOMAIN-SUFFIX,sway-extensions.com
+  - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-SUFFIX,outlookmobile.com
+  - DOMAIN-SUFFIX,assets-yammer.com
+  - DOMAIN-SUFFIX,xboxservices.com
+  - DOMAIN-SUFFIX,windowsazure.com
+  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,public-trust.com
+  - DOMAIN-SUFFIX,msftidentity.com
+  - DOMAIN-SUFFIX,skypeassets.com
+  - DOMAIN-SUFFIX,wunderlist.com
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,msidentity.com
+  - DOMAIN-SUFFIX,uservoice.com
+  - DOMAIN-SUFFIX,sfbassets.com
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,aspnetcdn.com
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,sway-cdn.com
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,omniroot.com
+  - DOMAIN-SUFFIX,oaspapps.com
+  - DOMAIN-SUFFIX,o365weve.com
+  - DOMAIN-SUFFIX,azurerms.com
+  - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-SUFFIX,acompli.com
+  - DOMAIN-SUFFIX,yammer.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,msocsp.com
+  - DOMAIN-SUFFIX,msocdn.com
+  - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,azure.com
+  - DOMAIN-SUFFIX,aadrm.com
+  - DOMAIN-SUFFIX,xbox.com
+  - DOMAIN-SUFFIX,sway.com
+  - DOMAIN-SUFFIX,lync.com
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,docs.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,appcenter.ms
+  - DOMAIN-SUFFIX,staffhub.ms
+  - DOMAIN-SUFFIX,onestore.ms
+  - DOMAIN-SUFFIX,clarity.ms
+  - DOMAIN-SUFFIX,mstea.ms
+  - DOMAIN-SUFFIX,aria.ms
+  - DOMAIN-SUFFIX,svc.ms
+  - DOMAIN-SUFFIX,sfx.ms
+  - DOMAIN-SUFFIX,gfx.ms
+  - DOMAIN-SUFFIX,aka.ms
+  - DOMAIN-KEYWORD,1drv
+  - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,hotmail
