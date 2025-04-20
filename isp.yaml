@@ -6,3 +6,4 @@ payload:
   - DOMAIN-KEYWORD,equifax # Equifax
   - DOMAIN-KEYWORD,kraken  # Kraken
   - DOMAIN-KEYWORD,t-mobile # T-Mobile
+  - DOMAIN-SUFFIX,grok
