@@ -174,3 +174,18 @@ payload:
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,hotmail
+# Spotify
+  - DOMAIN-KEYWORD,spotify
+  - IP-CIDR,104.154.127.126/32,no-resolve
+  - IP-CIDR,35.186.224.47/32,no-resolve
+  - USER-AGENT,Spotify*
+  - DOMAIN-SUFFIX,pscdn.co
+  - DOMAIN-SUFFIX,scdn.co
+  - DOMAIN-SUFFIX,spoti.fi
+  - DOMAIN,audio4-ak-spotify-com.akamaized.net
+  - DOMAIN,cdn-spotify-experiments.conductrics.com
+  - DOMAIN,heads-ak-spotify-com.akamaized.net
+  - DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
+  - DOMAIN-SUFFIX,byspotify.com
+  - DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
+  - PROCESS-NAME,com.spotify.music
