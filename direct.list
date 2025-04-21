@@ -47,6 +47,14 @@ DOMAIN-SUFFIX,koofr.net
 DOMAIN-SUFFIX,blog.jp
 DOMAIN-SUFFIX,t-online.de
 DOMAIN-SUFFIX,gmx.com
+DOMAIN-KEYWORD,vodafone
+DOMAIN-KEYWORD,three
+DOMAIN-KEYWORD,telekom
+DOMAIN-SUFFIX,tele2.kz
+DOMAIN-SUFFIX,mail.kz
+DOMAIN-SUFFIX,lifecell.ua
+DOMAIN-SUFFIX,u.com.my
+DOMAIN-SUFFIX,smart.com.ph
 DOMAIN,gh.wcl-law.com
 DOMAIN,ruleset-mirror.skk.moe
 IP-CIDR,162.14.0.0/18,no-resolve
