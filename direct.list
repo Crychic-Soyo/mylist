@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,lifecell.ua
 DOMAIN-SUFFIX,u.com.my
 DOMAIN-SUFFIX,smart.com.ph
 DOMAIN-SUFFIX,ais.th
+DOMAIN-KEYWORD,cmlink
 DOMAIN,gh.wcl-law.com
 DOMAIN,ruleset-mirror.skk.moe
 IP-CIDR,162.14.0.0/18,no-resolve
