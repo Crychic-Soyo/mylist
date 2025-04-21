@@ -51,9 +51,9 @@ payload:
   - DOMAIN-KEYWORD,vodafone
   - DOMAIN-KEYWORD,three
   - DOMAIN-KEYWORD,telekom
-  - DOMAIN-SUFFIX,tele2.kz
+  - DOMAIN-KEYWORD,tele2
   - DOMAIN-SUFFIX,mail.kz
-  - DOMAIN-SUFFIX,lifecell.ua
+  - DOMAIN-KEYWORD,lifecell
   - DOMAIN-SUFFIX,u.com.my
   - DOMAIN-SUFFIX,smart.com.ph
   - DOMAIN-SUFFIX,ais.th
