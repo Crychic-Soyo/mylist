@@ -48,7 +48,7 @@ payload:
   - DOMAIN-SUFFIX,koofr.net
   - DOMAIN-SUFFIX,blog.jp
   - DOMAIN-SUFFIX,t-online.de
-  - DOMAIN-KEYWORD,vodafone
+#  - DOMAIN-KEYWORD,vodafone
   - DOMAIN-KEYWORD,three
   - DOMAIN-KEYWORD,telekom
   - DOMAIN-KEYWORD,tele2
