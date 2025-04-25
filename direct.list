@@ -76,10 +76,10 @@ DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,icloud.com
-#DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,appsto.re
-#DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.co
 #PROCESS-NAME,trustd
 #PROCESS-NAME,netbiosd
 #PROCESS-NAME,com.apple.geod
