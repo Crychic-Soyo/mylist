@@ -47,7 +47,8 @@ DOMAIN-SUFFIX,koofr.net
 DOMAIN-SUFFIX,blog.jp
 DOMAIN-SUFFIX,t-online.de
 DOMAIN-SUFFIX,gmx.com
-#DOMAIN-KEYWORD,vodafone
+DOMAIN-KEYWORD,mnc002.mcc262
+DOMAIN-KEYWORD,vodafone
 DOMAIN-KEYWORD,three
 DOMAIN-KEYWORD,telekom
 DOMAIN-KEYWORD,tele2
@@ -84,16 +85,16 @@ DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,apple.co
-#PROCESS-NAME,trustd
-#PROCESS-NAME,netbiosd
-#PROCESS-NAME,com.apple.geod
-#PROCESS-NAME,mapspushd
-#PROCESS-NAME,com.apple.Maps
-#PROCESS-NAME,apsd
-#PROCESS-NAME,fmfd
-#PROCESS-NAME,findmydevice-user-agent
-#PROCESS-NAME,CoreLocationAgent
-#PROCESS-NAME,WeatherWidget
+PROCESS-NAME,trustd
+PROCESS-NAME,netbiosd
+PROCESS-NAME,com.apple.geod
+PROCESS-NAME,mapspushd
+PROCESS-NAME,com.apple.Maps
+PROCESS-NAME,apsd
+PROCESS-NAME,fmfd
+PROCESS-NAME,findmydevice-user-agent
+PROCESS-NAME,CoreLocationAgent
+PROCESS-NAME,WeatherWidget
 # Microsoft
 DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,msftauthimages.net
