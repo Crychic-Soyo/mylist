@@ -64,6 +64,7 @@ payload:
   - DOMAIN-SUFFIX,kyivstar.ua
   - DOMAIN-SUFFIX,vodafone.com.qa
   - DOMAIN-KEYWORD,vodafoneqa
+  - DOMAIN-SUFFIX,voxi.co.uk
   - DOMAIN,gh.wcl-law.com
   - DOMAIN,ruleset-mirror.skk.moe
   - IP-CIDR,162.14.0.0/18,no-resolve
