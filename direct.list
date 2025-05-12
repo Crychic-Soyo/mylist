@@ -70,6 +70,7 @@ IP-CIDR,162.14.0.0/18,no-resolve
 DOMAIN-KEYWORD,heinonline
 DOMAIN-KEYWORD,westlaw
 DOMAIN-KEYWORD,jstor
+DOMAIN-KEYWORD,gitlab
 # Apple
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,push-apple.com.akadns.net
