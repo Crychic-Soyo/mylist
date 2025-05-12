@@ -36,7 +36,6 @@ DOMAIN-KEYWORD,paypal
 USER-AGENT,PayPal*
 DOMAIN-SUFFIX,multi-byte.io
 DOMAIN-SUFFIX,3gppnetwork.org
-DOMAIN-SUFFIX,bunq.com
 # Cloud Service
 IP-CIDR,193.122.112.0/21,no-resolve
 DOMAIN-KEYWORD,littlecreek
