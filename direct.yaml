@@ -66,6 +66,7 @@ payload:
   - DOMAIN-KEYWORD,vodafoneqa
   - DOMAIN-SUFFIX,voxi.co.uk
   - DOMAIN,gh.wcl-law.com
+  - DOMAIN,mail.wcl-law.com
   - DOMAIN,ruleset-mirror.skk.moe
   - IP-CIDR,162.14.0.0/18,no-resolve
 # DB
