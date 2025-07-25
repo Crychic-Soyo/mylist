@@ -5,6 +5,7 @@ payload:
   - DOMAIN-KEYWORD,equifax # Equifax
   - DOMAIN-KEYWORD,kraken  # Kraken
   - DOMAIN-KEYWORD,t-mobile # T-Mobile
+  - DOMAIN-KEYWORD,firstrade #Firstrade
 # AI
 #   - DOMAIN-SUFFIX,grok.com
 #   - DOMAIN-SUFFIX,generativeai.google
