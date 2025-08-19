@@ -16,6 +16,7 @@ DOMAIN-KEYWORD,livibank
 DOMAIN-KEYWORD,airstarbank
 DOMAIN-KEYWORD,antbank
 DOMAIN-KEYWORD,fusionbank
+DOMAIN-KEYWORD,welab
 DOMAIN-KEYWORD,maybank2u
 DOMAIN-SUFFIX,ifastgb.com
 DOMAIN-SUFFIX,interactivebrokers.com
@@ -25,6 +26,8 @@ DOMAIN-KEYWORD,schwab
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-KEYWORD,fsmone
 DOMAIN-KEYWORD,fundsupermart
+DOMAIN-SUFFIX,wlsec.com
+DOMAIN-SUFFIX,wlis.com.hk
 DOMAIN-SUFFIX,marketingcloudapis.com
 DOMAIN-KEYWORD,number26
 DOMAIN-KEYWORD,tech26
