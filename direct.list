@@ -71,6 +71,8 @@ DOMAIN,mail.wcl-law.com
 DOMAIN,ruleset-mirror.skk.moe
 DOMAIN-KEYWORD,yollacall
 IP-CIDR,162.14.0.0/18,no-resolve
+DOMAIN-KEYWORD,naver
+DOMAIN-KEYWORD,navercorp
 # DB
 DOMAIN-KEYWORD,heinonline
 DOMAIN-KEYWORD,westlaw
