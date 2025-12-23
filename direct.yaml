@@ -65,6 +65,8 @@ payload:
   - IP-CIDR,162.14.0.0/18,no-resolve
   - DOMAIN-SUFFIX,att.net
   - DOMAIN-KEYWORD,mcc310
+  - DOMAIN-KEYWORD,naver
+  - DOMAIN-KEYWORD,navercorp
 # DB
   - DOMAIN-KEYWORD,heinonline
   - DOMAIN-KEYWORD,westlaw
