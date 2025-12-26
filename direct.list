@@ -37,6 +37,7 @@ DOMAIN-KEYWORD,revolut
 DOMAIN-SUFFIX,seagm.com
 DOMAIN-KEYWORD,paypal
 USER-AGENT,PayPal*
+DOMAIN-KEYWORD,ebay
 DOMAIN-SUFFIX,multi-byte.io
 DOMAIN-SUFFIX,3gppnetwork.org
 # Cloud Service
