@@ -59,13 +59,10 @@ payload:
   - DOMAIN-KEYWORD,cmlink
   - DOMAIN-SUFFIX,kyivstar.ua
   - DOMAIN-SUFFIX,voxi.co.uk
-  - DOMAIN,gh.wcl-law.com
-  - DOMAIN,mail.wcl-law.com
+  - DOMAIN-SUFFIX,wcl-law.com
   - DOMAIN,ruleset-mirror.skk.moe
   - DOMAIN-KEYWORD,yollacall
   - IP-CIDR,162.14.0.0/18,no-resolve
-  - DOMAIN-SUFFIX,att.net
-  - DOMAIN-KEYWORD,mcc310
   - DOMAIN-KEYWORD,naver
   - DOMAIN-KEYWORD,navercorp
 # DB
