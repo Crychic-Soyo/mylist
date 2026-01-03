@@ -9,6 +9,7 @@ payload:
   - DOMAIN-KEYWORD,firstrade #Firstrade
 #  - DOMAIN-KEYWORD,www.google. #Google
   - DOAMIN-SUFFIX,redpocket.com #RedPocket
+  - DOMAIN-KEYWORD,revolut # Revolut
 # AI
 #   - DOMAIN-SUFFIX,grok.com
 #   - DOMAIN-SUFFIX,generativeai.google
